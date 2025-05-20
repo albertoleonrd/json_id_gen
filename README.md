@@ -15,7 +15,7 @@ A command-line tool for adding unique random IDs to JSON records. This tool read
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/random_id_generator.git
+git clone https://github.com/albertoleonrd/random_id_generator.git
 cd random_id_generator
 ```
 
