@@ -19,11 +19,6 @@ git clone https://github.com/albertoleonrd/random_id_generator.git
 cd random_id_generator
 ```
 
-2. Install the dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 Run the tool using the `main.py` script:
